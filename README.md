@@ -1,6 +1,6 @@
 # Neural Network from Scratch (MNIST Classifier)
 
-This project implements a fully connected neural network **from scratch in Python**, without using deep learning libraries such as TensorFlow or PyTorch. The goal was to understand how neural networks work under the hood by building everything manually — from the math to the code.
+This project implements a fully connected neural network **from scratch in Python**, without using deep learning libraries such as TensorFlow or PyTorch. The goal was to understand how neural networks work under the hood by building everything manually from the math to the code.
 
 ## Project Overview
 - Implemented a neural network with:
