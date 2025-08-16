@@ -25,8 +25,8 @@ This project implements a fully connected neural network **from scratch in Pytho
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neural-net-from-scratch.git
-   cd neural-net-from-scratch
+   git clone https://github.com/yourusername/Neural-Networks-from-Scratch.git
+   cd Neural-Networks-from-Scratch
 
 
 <video src="https://github.com/user-attachments/assets/27bd2d73-18e1-4cc1-a699-53b2e50c37aa" >
